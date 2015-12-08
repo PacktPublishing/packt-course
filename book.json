@@ -1,0 +1,18 @@
+{
+    "structure": {
+        "readme": "credits.md"
+    },
+    "plugins": [ "local-video", "packt", "quiz", "-sharing", "-search" ],
+    "pluginsConfig": {
+        "mixpanel": {
+            "token": "TOKENGOESHERE"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Published by Packt": "https://www.packtpub.com/?utm_source=course-reader&utm_medium=course&utm_campaign=editorial",
+            "GitHub Repository": "https://github.com/PacktPublishing/learning-flask",
+            "Support": "mailto:courses@packtpub.com"
+        }
+    }
+}
